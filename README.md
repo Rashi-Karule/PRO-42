@@ -1,1 +1,1 @@
-# pro36
+# virtual-pet-2
